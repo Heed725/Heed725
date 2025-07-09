@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Hemed Lungo 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kq0hRWaIWt6JxCEBDT/giphy.gif" width="200" alt="MegaMan">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJjczZhaTYyOW84eTZ5bnNpMnRmdHJ2azF4MXprdnJnaGI0dGQ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0megwbBeETMgZa/giphy.gif" width="200" alt="MegaMan">
 </p>
 
 <p align="center">
@@ -70,5 +70,7 @@ I'm currently focused on:
 - 📧 Email: hemedlungo@gmail.com  
 - 🐦 Twitter: [@725Hemeed](https://twitter.com/725Hemeed)
 ---
+
+GIF Credit-source:Walter Newton
 
 
