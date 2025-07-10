@@ -25,7 +25,7 @@ I'm currently focused on:
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [climateR demo with TerraClimate](https://github.com/Heed725/Terraclimate-ClimateR-Tutorial) | A reproducible workflow to access, process, and visualize TerraClimate datasets using the `climateR` and `tidyterra` packages. |
+| 🔗 [ClimateR demo with TerraClimate](https://github.com/Heed725/Terraclimate-ClimateR-Tutorial) | A reproducible workflow to access, process, and visualize TerraClimate datasets using the `climateR` and `tidyterra` packages. |
 | 🧩 [QGIS Color Ramp Generator Plugin](https://github.com/Heed725/qgis-color-ramp-generator-plugin) | A tool for generating beautiful and consistent color ramps for maps in QGIS. Inspired by `MetBrewer` and `MoMAColors`. |
 | 🗺️ [Tanzania/Kenya MODIS Projects](https://github.com/Heed725/Tanzania-Modis-Classification-Map) | Extraction and processing scripts for MODIS Landcover data across Tanzania. Supports environmental change detection workflows. |
 
