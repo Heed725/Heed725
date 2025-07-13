@@ -16,7 +16,7 @@ I'm currently focused on:
 
 - 🛰️ Building climate and land cover visualizations in **QGIS** and **Google Earth Engine**
 - 🔬 Processing and analyzing **MODIS**, **Sentinel-2**, and **TerraClimate** datasets
-- 🐍 Extending QGIS with custom Python plugins
+- 🐍 Extending QGIS with custom Python and R Scripts
 - 📦 Contributing to open-source packages in the spatial data science ecosystem (R & Python)
 
 ---
